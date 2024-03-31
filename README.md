@@ -5,7 +5,7 @@
 I'm a passionate Machine Learning Engineer, specializing in developing end-to-end machine learning solutions. My expertise includes Large Language Models (LLMs), Generative AI (GenAI), prompt engineering, and deep learning.
 
 ### 🎓 Education:
-- MS in Data Science, University of San Francisco (Current)
+- MS in Data Science, University of San Francisco (2023-2024)
 - BS in Statistics, University of California, Los Angeles (2014-2019)
 
 ### 💼 Experience:
