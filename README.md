@@ -1,17 +1,18 @@
 # Hi there, I'm [Sangjun Han] 👋
 
-## Machine Learning Engineer | Data Scientist | Graduate Student in Data Science
+## Machine Learning Engineer | Data Scientist | AI Enthusiast
 
 I'm a passionate Machine Learning Engineer, specializing in developing end-to-end machine learning solutions. My expertise includes Large Language Models (LLMs), Generative AI (GenAI), prompt engineering, and deep learning.
 
 ### 🎓 Education:
-- BS in Statistics, University of California, Los Angeles (UCLA)
-- MS in Data Science, University of San Francisco (USF)
+- MS in Data Science, University of San Francisco (Current)
+- BS in Statistics, University of California, Los Angeles (2014-2019)
 
 ### 💼 Experience:
 - Data Scientist Intern, UCSF Medical Center (Current)
 - Machine Learning Engineer Intern, CXApp (2023-2024)
 - Data Engineer, Rock15 Inc. (2019-2022)
+- AI Scientist Intern, Rock15 Inc. (2018-2019)
 
 ### 💬 Ask me about:
 - Machine learning
