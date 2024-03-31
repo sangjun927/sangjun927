@@ -14,6 +14,10 @@ I'm a passionate Machine Learning Engineer, specializing in developing end-to-en
 - Data Engineer, Rock15 Inc. (2019-2022)
 - AI Scientist Intern, Rock15 Inc. (2018-2019)
 
+### 🔭 I’m currently working on:
+- Building an AI mockup interview system as part of my startup project, focusing on creating a robust and intelligent product using the latest advancements in APIs for Speech-to-Text (STT) and Text-to-Speech (TTS), Generative AI, and LLM fine-tuning.
+- Enhancing hospital Length of Stay (LOS) predictions at UCSF Medical Center using BERT models to analyze doctor's notes.
+
 ### 💬 Ask me about:
 - Machine learning
 - LLM
