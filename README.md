@@ -25,10 +25,6 @@ I'm a passionate Machine Learning Engineer, specializing in developing end-to-en
 - Deep learning
 - Knowledge Graph
 
-### 📫 How to reach me:
-- LinkedIn: [Sangjun](https://www.linkedin.com/in/sangjun927)
-- Email: hansangjun207@gmail.com
-
 ### 🛠 Skills:
 #### Programming & Development:
 - [Python](https://www.python.org/) (5 years of experience), [C++](https://www.cplusplus.com/), [R](https://www.r-project.org/)
