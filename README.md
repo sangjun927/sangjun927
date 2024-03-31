@@ -10,7 +10,7 @@ I'm a passionate Machine Learning Engineer, specializing in developing end-to-en
 
 ### 💼 Experience:
 - Data Scientist, UCSF Medical Center (Current)
-- Data Engineer, [Your Previous Company Name] (2019-2022)
+- Data Engineer, [Rock15 Inc.] (2019-2022)
 
 ### 💬 Ask me about:
 - Machine learning
