@@ -1,4 +1,4 @@
-# Hi there, I'm [Sangjun Han] 👋
+# Hi there, I'm Sangjun Han 👋
 
 ## Machine Learning Engineer | Data Scientist | AI Enthusiast
 
