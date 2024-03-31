@@ -20,7 +20,7 @@ I'm a passionate Machine Learning Engineer, specializing in developing end-to-en
 
 ### 🛠 Skills:
 #### Programming & Development:
-- [Python](https://www.python.org/) (5 years of experience), [C++](https://www.cplusplus.com/), [R](https://www.r-project.org/)
+- [Python](https://www.python.org/), [C++](https://www.cplusplus.com/), [R](https://www.r-project.org/)
 - [REST API](https://restfulapi.net/), [Flask](https://flask.palletsprojects.com/), [Streamlit](https://streamlit.io/)
 
 #### Data Management & Engineering:
