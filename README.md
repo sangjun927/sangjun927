@@ -35,9 +35,9 @@ I'm a passionate Machine Learning Engineer, specializing in developing end-to-en
 - [REST API](https://restfulapi.net/), [Flask](https://flask.palletsprojects.com/), [Streamlit](https://streamlit.io/)
 
 #### Data Management & Engineering:
-- [Git](https://git-scm.com/), [Snowflake](https://www.snowflake.com/), [AWS](https://aws.amazon.com/), [Databricks](https://databricks.com/)
-- [SQL](https://en.wikipedia.org/wiki/SQL), [NoSQL](https://en.wikipedia.org/wiki/NoSQL), [MongoDB](https://www.mongodb.com/), [SparkSQL](https://spark.apache.org/sql/)
-- [Airflow](https://airflow.apache.org/), [DAGs](https://airflow.apache.org/docs/apache-airflow/stable/concepts/dags.html), [GCS](https://cloud.google.com/storage), [Selenium](https://www.selenium.dev/), [Vector Database](https://en.wikipedia.org/wiki/Vector_database)
+- [Git](https://git-scm.com/), [Snowflake](https://www.snowflake.com/), [AWS](https://aws.amazon.com/), [Databricks](https://databricks.com/), [GCS](https://cloud.google.com/storage), [Selenium](https://www.selenium.dev/)
+- [SQL](https://en.wikipedia.org/wiki/SQL), [NoSQL](https://en.wikipedia.org/wiki/NoSQL), [MongoDB](https://www.mongodb.com/), [SparkSQL](https://spark.apache.org/sql/), [Vector Database](https://en.wikipedia.org/wiki/Vector_database), [Knowledge Graph](https://en.wikipedia.org/wiki/Knowledge_graph)
+- [Airflow](https://airflow.apache.org/), [DAGs](https://airflow.apache.org/docs/apache-airflow/stable/concepts/dags.html)
 
 #### Machine Learning & Analytics:
 - [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning), [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network), [NLP](https://en.wikipedia.org/wiki/Natural_language_processing)
