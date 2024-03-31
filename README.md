@@ -9,7 +9,7 @@ I'm a passionate Machine Learning Engineer, specializing in developing end-to-en
 - MS in Data Science, University of San Francisco (USF)
 
 ### 💼 Experience:
-- Data Scientist Intern, UCSF Medical Center (Current)
+- Data Scientist, UCSF Medical Center (Current)
 - Data Engineer, [Your Previous Company Name] (2019-2022)
 
 ### 💬 Ask me about:
