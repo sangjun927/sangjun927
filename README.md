@@ -36,7 +36,7 @@ I'm a passionate Machine Learning Engineer, specializing in developing end-to-en
 
 #### Data Management & Engineering:
 - [Git](https://git-scm.com/), [Snowflake](https://www.snowflake.com/), [AWS](https://aws.amazon.com/), [Databricks](https://databricks.com/), [GCS](https://cloud.google.com/storage), [Selenium](https://www.selenium.dev/)
-- [SQL](https://en.wikipedia.org/wiki/SQL), [NoSQL](https://en.wikipedia.org/wiki/NoSQL), [MongoDB](https://www.mongodb.com/), [SparkSQL](https://spark.apache.org/sql/), [Vector Database](https://en.wikipedia.org/wiki/Vector_database), [Knowledge Graph](https://en.wikipedia.org/wiki/Knowledge_graph)
+- [Knowledge Graph](https://en.wikipedia.org/wiki/Knowledge_graph), [SQL](https://en.wikipedia.org/wiki/SQL), [NoSQL](https://en.wikipedia.org/wiki/NoSQL), [MongoDB](https://www.mongodb.com/), [SparkSQL](https://spark.apache.org/sql/), [Vector Database](https://en.wikipedia.org/wiki/Vector_database)
 - [Airflow](https://airflow.apache.org/), [DAGs](https://airflow.apache.org/docs/apache-airflow/stable/concepts/dags.html)
 
 #### Machine Learning & Analytics:
