@@ -17,7 +17,7 @@ I'm a passionate Machine Learning Engineer, specializing in developing end-to-en
 ### 📑 Projects:
 - [House Price Kaggle Competition - Top 5](https://github.com/sangjun927/house-price-prediction)
 - [Time Series Analysis Competition - Top 3](https://github.com/sangjun927/time-series-analysis)
-- [Animal Multi-Classification With MongoDB, GCP, and Apache Airflow](https://github.com/sangjun927/DeepLearningPipeline)
+- [Deep Learning - Animal Multi-Classification With MongoDB, GCP, and Apache Airflow](https://github.com/sangjun927/DeepLearningPipeline)
 - [Customer Churn Analysis](https://github.com/sangjun927/customer-churn-analysis)
 
 ### 🔭 I’m currently working on:
