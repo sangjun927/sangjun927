@@ -14,6 +14,11 @@ I'm a passionate Machine Learning Engineer, specializing in developing end-to-en
 - Data Engineer, Rock15 Inc. (2019-2022)
 - AI Scientist Intern, Rock15 Inc. (2018-2019)
 
+### 📑 Projects:
+- [House Price Kaggle Competition - Top5](https://github.com/sangjun927/house-price-prediction)
+- [Time Series Analysis Competition - Top3](https://github.com/sangjun927/time-series-analysis)
+- [Animal Multi-Classification With MongoDB, GCP, and Apache Airflow](https://github.com/sangjun927/DeepLearningPipeline)
+
 ### 🔭 I’m currently working on:
 - Building an AI mockup interview system as part of my startup project, focusing on creating a robust and intelligent product using the latest advancements in APIs for Speech-to-Text (STT) and Text-to-Speech (TTS), Generative AI, and LLM fine-tuning.
 - Enhancing hospital Length of Stay (LOS) predictions at UCSF Medical Center using BERT models to analyze doctor's notes.
