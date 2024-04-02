@@ -2,7 +2,7 @@
 
 ## Machine Learning Engineer | Data Scientist | AI Enthusiast
 
-I am passionate about Artificial Intelligence and Machine Learning, focusing on creating comprehensive end-to-end machine learning solutions. My expertise includes Data Analytics, Large Language Models (LLMs), Generative AI (GenAI), prompt engineering, and deep learning.
+I am passionate about Artificial Intelligence and Machine Learning, focusing on creating comprehensive end-to-end machine learning solutions. My expertise includes Data Analytics, Data Engineering, Large Language Models (LLMs), Generative AI (GenAI), prompt engineering, and deep learning.
 
 ### 🎓 Education:
 - MS in Data Science, University of San Francisco (2023-2024)
