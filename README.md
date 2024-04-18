@@ -1,6 +1,6 @@
 # Hi there, I'm Sangjun Han 👋
 
-## Machine Learning Engineer | Data Scientist | AI Enthusiast
+## AI Engineer | Data Scientist
 
 I am passionate about Artificial Intelligence and Machine Learning, focusing on creating comprehensive end-to-end machine learning solutions. My expertise includes Data Analytics, Data Engineering, Large Language Models (LLMs), Generative AI (GenAI), prompt engineering, and deep learning. If you want to know more about my work experience, please visit my linkedin profile. [LinkedIn](https://www.linkedin.com/in/sangjun927/)
 
