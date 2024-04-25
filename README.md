@@ -22,7 +22,7 @@ I am passionate about Artificial Intelligence and Machine Learning, focusing on 
 - [Customer Churn Analysis](https://github.com/sangjun927/customer-churn-analysis)
 
 ### 🔭 I’m currently working on:
-- Building an AI mockup interview system as part of my startup project, focusing on creating a robust and intelligent product using the latest advancements in APIs for Speech-to-Text (STT) and Text-to-Speech (TTS), Generative AI, and LLM fine-tuning.
+- Building an AI mockup interview system as part of my startup project, focusing on creating a robust and intelligent product using the latest advancements in APIs for Speech-to-Text (STT) and Text-to-Speech (TTS), Generative AI, and LLM fine-tuning. [RehearsAI](https://github.com/msds603-startup8)
 - Enhancing hospital Length of Stay (LOS) predictions at UCSF Medical Center using BERT models to analyze doctor's notes.
 
 ### 🛠 Skills:
