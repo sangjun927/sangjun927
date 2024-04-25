@@ -14,16 +14,16 @@ I am passionate about Artificial Intelligence and Machine Learning, focusing on 
 - Data Engineer, Rock15 Inc. (2019-2022)
 - AI Scientist Intern, Rock15 Inc. (2018-2019)
 
+### 🔭 I’m currently working on:
+- Building an AI mockup interview system as part of my startup project, focusing on creating a robust and intelligent product using the latest advancements in APIs for Speech-to-Text (STT) and Text-to-Speech (TTS), Generative AI, and LLM fine-tuning. [RehearsAI](https://github.com/msds603-startup8)
+- Enhancing hospital Length of Stay (LOS) predictions at UCSF Medical Center using BERT models to analyze doctor's notes.
+
 ### 📑 Projects:
 - [House Price Kaggle Competition - Top 5](https://github.com/sangjun927/house-price-prediction)
 - [Time Series Analysis Competition - Top 3](https://github.com/sangjun927/time-series-analysis)
 - [Deep Learning - Animal Multi-Classification With MongoDB, GCP, and Apache Airflow](https://github.com/sangjun927/DeepLearningPipeline)
 - [Article Recommendation with Flask App](https://github.com/sangjun927/article-recommendation)
 - [Customer Churn Analysis](https://github.com/sangjun927/customer-churn-analysis)
-
-### 🔭 I’m currently working on:
-- Building an AI mockup interview system as part of my startup project, focusing on creating a robust and intelligent product using the latest advancements in APIs for Speech-to-Text (STT) and Text-to-Speech (TTS), Generative AI, and LLM fine-tuning. [RehearsAI](https://github.com/msds603-startup8)
-- Enhancing hospital Length of Stay (LOS) predictions at UCSF Medical Center using BERT models to analyze doctor's notes.
 
 ### 🛠 Skills:
 #### Programming & Development:
