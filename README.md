@@ -9,7 +9,7 @@ I am passionate about Artificial Intelligence and Machine Learning, focusing on 
 - BS in Statistics, University of California, Los Angeles (2014-2019)
 
 ### 💼 Experience:
-- Co-Founder, [RehearsAI] (https://github.com/msds603-startup8)
+- Co-Founder, [RehearsAI](https://github.com/msds603-startup8)
 - Data Scientist Intern, UCSF Medical Center (Current)
 - Machine Learning Engineer Intern, CXApp (2023-2024)
 - Data Engineer, Rock15 Inc. (2019-2022)
